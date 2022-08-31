@@ -1,0 +1,2 @@
+30 4 * * * php /var/www/html/artisan db:seed --class=UnitSeeder
+30 4 * * * php /var/www/html/artisan db:seed --class=EmployeeSeeder
